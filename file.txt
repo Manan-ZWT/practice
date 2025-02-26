@@ -1,3 +1,2 @@
 Hello from main
-Hello from features
-Added more 25 features
+Added more 5 features
